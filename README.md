@@ -20,5 +20,6 @@ BDAcademy serves as an engaging tool for Mauá Institute of Technology students 
 * Fernando Freitas de Oliveira
 * Gustavo Yudji Hiromoto
 * Bruno Kenji Teruya
+* Diogo Carvalho Bernardini
 
 Feel free to customize the project details and modify the features based on the specifics of your relational database educational game.
